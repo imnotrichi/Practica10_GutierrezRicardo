@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698157289695",
+    "project_id": "ejemplologin-2d0c3",
+    "storage_bucket": "ejemplologin-2d0c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698157289695:android:b16efcaaf6b55fad4cd96a",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.practicaautenticaciongutierrezr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGcWKFW6O-vijo43jYb2TBuoZldpjbHI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
